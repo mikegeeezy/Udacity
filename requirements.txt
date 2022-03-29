@@ -125,7 +125,7 @@ openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1596824386248/work
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.5.2
 partd==1.1.0
 path @ file:///C:/ci/path_1596940809557/work
